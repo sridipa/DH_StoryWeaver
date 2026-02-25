@@ -45,4 +45,16 @@ dynamics using a social semiotic multimodal framework.
 
 ## Methodology
 
-Multimodal analysis dr
+Multimodal analysis drawing on:
+- Kress & van Leeuwen's social semiotic framework for visual communication
+- Feminist content analysis of gender in children's literature
+- Digital archive studies and Global South publishing contexts
+
+---
+
+## Attribution
+
+The Case of the Missing Water (English), written by Shalini Srinivasan,
+illustrated by Upamanyu Bhattacharyya, supported by Oracle, published by
+Pratham Books (© Pratham Books, 2018) under a CC BY 4.0 license,
+first released on StoryWeaver.
