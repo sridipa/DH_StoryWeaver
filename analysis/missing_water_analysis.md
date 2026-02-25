@@ -53,7 +53,7 @@ The text integrates STEAM not as curriculum content but as lived practice: child
 ## 4. Multimodal Analysis
 
 ### 4.1 Visual Style
-The illustration style is expressive and dynamic — characters are rendered with strong gestural lines, warm earth tones dominating the palette (cracked dry land, brown goats, dusty landscapes), contrasted with Ranj's bright orange clothing and green accessories. This colour contrast visually codes Ranj as an active, energetic presence against an environment defined by scarcity and aridity.
+The illustration style is expressive and dynamic; characters are rendered with strong gestural lines, warm earth tones dominating the palette (cracked dry land, brown goats, dusty landscapes), contrasted with Ranj's bright orange clothing and green accessories. This colour contrast visually codes Ranj as an active, energetic presence against an environment defined by scarcity and aridity.
 
 ### 4.2 Page Composition and Power
 The image analysed shows a strong compositional power dynamic: the elderly woman occupies an elevated position (on a rock, physically dominant), holding a staff, pointing, gestures of authority and direction. Ranj stands at ground level, smaller in frame, holding a notebook, demonstrates the tools of inquiry rather than command. This spatial encoding reinforces the coexistence of directive authority (elder) and investigative agency (child) within female characters.
@@ -67,10 +67,10 @@ The relationship between text and image in the StoryWeaver edition is complement
 
 StoryWeaver is one of the most significant open-access multilingual children's literature archives produced from the Global South, with over 50,000 stories in 300+ languages. *The Case of the Missing Water* exemplifies a strand of content that foregrounds:
 
-- **Female protagonists in STEAM roles** — counter to dominant global picturebook trends
-- **Rural South Asian environmental contexts** — underrepresented in global children's publishing
-- **Community-based problem solving** — as distinct from individualist Western STEM narratives
-- **Open licensing (CC BY 4.0)** — enabling reuse, translation, and computational analysis
+- **Female protagonists in STEAM roles** : counter to dominant global picturebook trends
+- **Rural South Asian environmental contexts** : underrepresented in global children's publishing
+- **Community-based problem solving** : as distinct from individualist Western STEM narratives
+- **Open licensing (CC BY 4.0)** : enabling reuse, translation, and computational analysis
 
 This makes the StoryWeaver archive a particularly productive site for digital humanities research into gender, STEAM, and Global South representation in children's literature, which was the central focus of the TU Darmstadt fellowship project.
 
