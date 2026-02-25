@@ -32,7 +32,8 @@ children's literature produced outside dominant Euro-American publishing context
 **Text:** Shalini Srinivasan (author) · Upamanyu Bhattacharyya (illustrator)  
 **Publisher:** Pratham Books, 2018 · CC BY 4.0  
 **Archive:** [StoryWeaver](https://storyweaver.org.in)
-**Access the story:** [*The Case of the Missing Water*] (https://storyweaver.org.in/en/stories/417342-the-case-of-missing-water)
+
+**Access the story:** [*The Case of the Missing Water*](https://storyweaver.org.in/en/stories/417342-the-case-of-missing-water)
 
 A STEAM-themed detective narrative following Ranj, a girl who investigates
 the disappearance of her village's water supply. The analysis examines
